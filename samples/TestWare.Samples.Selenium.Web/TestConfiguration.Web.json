@@ -1,0 +1,19 @@
+{
+  "Configurations": [
+    {
+      "Tag": "WebDriver",
+      "Capabilities": [
+        {
+          "Name": "WebDriver",
+          "Path": "D:\\ERNI_Academy_Repo\\Drivers",
+          "Driver": "Chrome",
+          "CommandTimeOutInMinutes": 5,
+          "Arguments": [
+            "--start-maximized"
+          ]
+        }
+      ]
+    }
+  ],
+  "TestResultPath": "D:\\ERNI_Academy_Repo\\TestResults\\"
+}

@@ -1,0 +1,30 @@
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Engines.Selenium.deps.json
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Engines.Selenium.dll
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Engines.Selenium.pdb
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Core.dll
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Core.pdb
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.csproj.AssemblyReference.cache
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.AssemblyInfoInputs.cache
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.AssemblyInfo.cs
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.csproj.CoreCompileInputs.cache
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.csproj.CopyComplete
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.dll
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\refint\TestWare.Engines.Selenium.dll
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.pdb
+D:\ERNI_Academy_Repo\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\ref\TestWare.Engines.Selenium.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Engines.Selenium.deps.json
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Engines.Selenium.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Engines.Selenium.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Core.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\bin\Debug\net6.0\TestWare.Core.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.csproj.AssemblyReference.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.AssemblyInfoInputs.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.AssemblyInfo.cs
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.csproj.CoreCompileInputs.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.csproj.CopyComplete
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\refint\TestWare.Engines.Selenium.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\TestWare.Engines.Selenium.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Engines\TestWare.Engines.Selenium\obj\Debug\net6.0\ref\TestWare.Engines.Selenium.dll

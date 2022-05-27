@@ -1,0 +1,30 @@
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.ExtentReport.deps.json
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.ExtentReport.dll
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.ExtentReport.pdb
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.Core.dll
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.Core.pdb
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.csproj.AssemblyReference.cache
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.AssemblyInfoInputs.cache
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.AssemblyInfo.cs
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.csproj.CoreCompileInputs.cache
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.csproj.CopyComplete
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.dll
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\refint\TestWare.ExtentReport.dll
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.pdb
+D:\ERNI_Academy_Repo\src\Core\TestWare.TestReport\obj\Debug\net6.0\ref\TestWare.ExtentReport.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.ExtentReport.deps.json
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.ExtentReport.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.ExtentReport.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.Core.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\bin\Debug\net6.0\TestWare.Core.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.csproj.AssemblyReference.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.AssemblyInfoInputs.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.AssemblyInfo.cs
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.csproj.CoreCompileInputs.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.csproj.CopyComplete
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\refint\TestWare.ExtentReport.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\TestWare.ExtentReport.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\src\Core\TestWare.TestReport\obj\Debug\net6.0\ref\TestWare.ExtentReport.dll

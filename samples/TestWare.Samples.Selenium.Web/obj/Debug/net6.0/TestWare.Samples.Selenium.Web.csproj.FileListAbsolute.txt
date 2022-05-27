@@ -1,0 +1,394 @@
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\LivingDoc.Dtos.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\testhost.exe
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\testhost.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestConfiguration.Web.json
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.deps.json
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.runtimeconfig.json
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.pdb
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Appium.Net.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Autofac.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\BoDi.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\DnsClient.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ExtentReports.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\FluentAssertions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Gherkin.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Polly.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\RazorEngine.NetCore.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\WebDriver.Support.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\WebDriver.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\SharpCompress.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Core.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Engines.Selenium.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.ExtentReport.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.ExtentReport.pdb
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Engines.Selenium.pdb
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Core.pdb
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.csproj.AssemblyReference.cache
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.AssemblyInfoInputs.cache
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.AssemblyInfo.cs
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.csproj.CoreCompileInputs.cache
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.csproj.CopyComplete
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\refint\TestWare.Samples.Selenium.Web.dll
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.pdb
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.genruntimeconfig.cache
+D:\ERNI_Academy_Repo\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\ref\TestWare.Samples.Selenium.Web.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\testhost.exe
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\testhost.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestConfiguration.Web.json
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.deps.json
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.runtimeconfig.json
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Samples.Selenium.Web.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Appium.Net.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Autofac.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\BoDi.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\DnsClient.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ExtentReports.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Gherkin.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\Polly.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\RazorEngine.NetCore.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\WebDriver.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Core.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Engines.Selenium.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.ExtentReport.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.ExtentReport.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Engines.Selenium.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\bin\Debug\net6.0\TestWare.Core.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.csproj.AssemblyReference.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.AssemblyInfoInputs.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.AssemblyInfo.cs
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.csproj.CoreCompileInputs.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.csproj.CopyComplete
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\refint\TestWare.Samples.Selenium.Web.dll
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.pdb
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\TestWare.Samples.Selenium.Web.genruntimeconfig.cache
+C:\Users\caborocj\Desktop\Nueva carpeta\samples\TestWare.Samples.Selenium.Web\obj\Debug\net6.0\ref\TestWare.Samples.Selenium.Web.dll
